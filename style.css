@@ -1,0 +1,23 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color: #C0C0C0;
+}
+body{
+    background-color: silver;
+    color: white;
+    padding: 20px;
+    font-family: Arial, Verdana, sans-serif;
+}
+#nav{
+    padding: 9px;
+    margin: 10px;
+				background-color: #E0E0E0;
+				color: #64645A
+            }
+				
+.alldev{
+    padding: 6px;
+    margin: 4px;
+font-size: 1rem;}
+
